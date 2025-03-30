@@ -1,0 +1,25 @@
+{
+  "name": "nsmq",
+  "version": "1.0.0",
+  "description": "NSMQ App",
+  "keywords": [
+    "nsmq",
+    "quiz",
+    "tests"
+  ],
+  "homepage": "https://github.com/maxikonnect/nsmq#readme",
+  "bugs": {
+    "url": "https://github.com/maxikonnect/nsmq/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxikonnect/nsmq.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Abradu Frimpong Kwame",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
